@@ -1,0 +1,7 @@
+statsmodels
+kaleido
+plotly
+seaborn
+matplotlib
+sklearn
+pandas
